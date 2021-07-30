@@ -16,7 +16,7 @@
 // for webpack this is resolved this way:
 // resolve: { // see: https://webpack.js.org/configuration/resolve/
 //     alias: {
-//         typeorm: path.resolve(__dirname, "../node_modules/swagger/swagger-model-shim")
+//         swagger: path.resolve(__dirname, "../node_modules/swagger/swagger-model-shim")
 //     }
 // }
 

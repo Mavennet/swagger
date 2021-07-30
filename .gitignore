@@ -14,9 +14,3 @@ npm-debug.log
 # tests
 /coverage
 /.nyc_output
-
-# source
-dist
-index.js
-index.d.ts
-/sample
